@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ifKondisi07",
+      "request": "launch",
+      "mainClass": "ifKondisi07",
+      "projectName": "Jobsheet5_6f38d32b"
+    },
+    {
+      "type": "java",
+      "name": "individu2",
+      "request": "launch",
+      "mainClass": "individu2",
+      "projectName": "Jobsheet5_6f38d32b"
+    },
+    {
+      "type": "java",
+      "name": "individu1",
+      "request": "launch",
+      "mainClass": "individu1",
+      "projectName": "Jobsheet5_6f38d32b"
+    },
+    {
+      "type": "java",
+      "name": "Individu1",
+      "request": "launch",
+      "mainClass": "Individu1",
+      "projectName": "Jobsheet5_6f38d32b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Kuliah/Jobsheet5",
+      "program": "d:/Kuliah/Jobsheet5/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
